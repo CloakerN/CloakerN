@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Backend Python banks**
 
-- 🌱 I’m currently learning **Node.Js, Git and Docker**
+- 🌱 I’m currently learning **Node.Js, Kotlin, Java and Docker**
 
 - 👯 I’m looking to collaborate on **Lua Programming**
 
-- 🤝 I’m looking for help with **Node.Js**
+- 🤝 I’m looking for help with **Kotlin**
 
 - 👨‍💻 All of my projects are available at [On this Github page!]
 
